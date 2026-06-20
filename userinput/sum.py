@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=int(input())
+Multiplication=a*b*c
+print(Multiplication)
+add=a+b+c
+print(add)
+Didivision=Multiplication/add
+print(Didivision)
