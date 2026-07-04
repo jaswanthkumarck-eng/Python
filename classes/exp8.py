@@ -10,3 +10,6 @@ class phone():
 
 samsung=phone("Samsung",20000,"Type C")
 samsung.display()
+
+realme=phone("Realme",15000,"Type C")
+realme.display()
