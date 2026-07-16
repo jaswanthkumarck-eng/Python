@@ -1,6 +1,7 @@
 class company():
     def __init__(self):
-        self.companyname="google"
-
+        self.__companyname="google"
+    def companyname(self):
+        print(self.__companyname)
 c1=company()
-print(c1.companyname)
+c1.companyname()
